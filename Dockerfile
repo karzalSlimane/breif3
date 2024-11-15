@@ -17,5 +17,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Define the default command
-CMD python models.py && python main.py
+CMD ./run.sh
 

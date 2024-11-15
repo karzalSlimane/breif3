@@ -55,3 +55,7 @@ for i, ligne in data.iterrows():
         session.commit()
 
 session.close()
+
+
+
+
