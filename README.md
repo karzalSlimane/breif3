@@ -36,19 +36,3 @@ Clonez ce projet sur votre machine locale :
 git clone https://github.com/karzalSlimane/breif3
 cd breif3
 
-
-
-
-### Explications sur la structure Markdown :
-1. **Construction et Démarrage des Conteneurs Docker** : Cette section explique comment démarrer l'application avec `docker-compose up --build` et décrit l'URL de l'application et la configuration de la base de données PostgreSQL.
-   
-2. **Structure des Dossiers** : Une vue d'ensemble des fichiers principaux du projet avec une description de chaque fichier.
-
-3. **Variables d'Environnement** : Explication des variables utilisées pour configurer la connexion à la base de données.
-
-4. **Exécution de l'Application** : Détaille le rôle du script `run.sh` et comment il démarre l'application.
-
-5. **Vérification de la Base de Données** : Explique comment accéder à la base de données PostgreSQL pour vérifier qu'elle fonctionne correctement.
-
-Vous pouvez maintenant intégrer ce bloc de Markdown directement dans votre `README.md` sur GitHub pour documenter les étapes d'installation, de configuration et de vérification du projet.
-
